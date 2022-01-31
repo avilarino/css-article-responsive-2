@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'Karla', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+  font-weight: 400, 700;
+  font-style: normal;
+}
+
+body {
+  background-color: rgb(230 239 246);
+  font-family: 'Karla', sans-serif;
+  margin: 50px
+}
+
+.principal-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* first container */
+
+.container {
+  max-width: 315px;
+  padding-left:20px;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 35px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.title-one {
+  color: hsl(179, 62%, 43%);
+  margin-bottom: 30px
+}
+
+.title-two {
+  color: hsl(71, 73%, 54%);
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.title-three {
+  color: #b6bbc3;
+  font-size: 14px;
+  font-weight: bold;
+  word-spacing: 3px;
+  line-height: 25px;
+}
+
+/* second container */
+
+.text-white {
+  color:white;
+}
+
+.bg-dark-green {
+  background-color: rgb(43 179 177);
+}
+
+.bg-white {
+  background-color:white
+}
+
+.container-green {
+  max-width: 315px;
+  padding-left:20px;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-two-d {
+  display: flex;
+  flex-direction: column;
+}
+
+.price {
+  font-size: 30px;
+  color: white;
+  margin-right: 15px
+}
+
+.p-price {
+  color: #b6bbc3;
+}
+
+.paragraph-white {
+  color: white;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.container-price {
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  align-items: center;
+  height: 50px
+}
+
+.button-green {
+  max-width: 310px;
+  height: 50px;
+  background-color: hsl(71, 73%, 54%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 4px 3px 5px 1px grey;
+  margin-top: 30px;
+  border-radius: 7px;
+}
+
+.button-green p {
+  color: white;
+  font-weight: bold;
+}
+
+.container-three {
+  max-width: 315px;
+  padding-left:20px;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: stretch;
+  background-color: rgb(74 190 189)
+}
+
+
+
+.container-three-p {
+  color: white;
+  font-size: 14px;
+  letter-spacing: 1px;
+
+}
