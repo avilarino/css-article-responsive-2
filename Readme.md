@@ -3,9 +3,25 @@ Interactive pricing component
 - coded by - Agustín Vilariño - 
 
 # Designs
-![Design preview for the Interactive pricing component coding challenge](./assets/design/desktop-design.jpg)
+#### Mobile
 
-The project consisted of copying the mentorfrontend`s designs, using differents technologies. HTML | CSS 
+![Screenshot](https://raw.githubusercontent.com/avilarino/price-grid-component/master/design/mobile-design.jpg)
+
+#### Desktop
+
+![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/design/desktop-design.jpg)
+
+# Landing Page
+### Concepts involved
+
+* HTML
+* CSS
+* BOOTSTRAP
+* Mobile first
+* HTML 5 semantic
+* Flexbox
+* Responsive design
+
 
 # Link 
 https://avilarino.github.io/price-grid-component/
@@ -17,3 +33,11 @@ if you like it, you can follow me in my social networks
 - https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/
 - Github
 - https://github.com/avilarino
+
+
+
+
+
+
+
+
