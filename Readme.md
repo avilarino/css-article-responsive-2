@@ -9,7 +9,7 @@ Interactive pricing component
 
 #### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/assets/design/desktop-design.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/assets/design/desktop-preview.jpg)
 
 # Landing Page
 ### Concepts involved
