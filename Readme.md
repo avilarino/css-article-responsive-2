@@ -7,9 +7,7 @@ Interactive pricing component
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/price-grid-component/master/assets/design/mobile-design.jpg)
 
-#### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/assets/design/desktop-preview.jpg)
 
 # Landing Page
 ### Concepts involved
