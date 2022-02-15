@@ -5,11 +5,11 @@ Interactive pricing component
 # Designs
 #### Mobile
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/price-grid-component/master/design/mobile-design.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/price-grid-component/master/assets/design/mobile-design.jpg)
 
 #### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/design/desktop-design.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/loopstudio/master/assets/design/desktop-design.jpg)
 
 # Landing Page
 ### Concepts involved
