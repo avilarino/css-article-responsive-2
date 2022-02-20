@@ -1,4 +1,4 @@
-# :zap::zap::zap::zap::zap::zap::zap: PRICE GRID 
+# :zap::zap::zap::zap::zap::zap::zap: PRICE GRID COMPONENT
 ## :computer: Coded by :saxophone:-   Agustin Vilariño -  :saxophone:
 
 ### Welcome !!
@@ -37,9 +37,9 @@ Welcome to my Github  :wave: :wave:
   * [Github](https://github.com/avilarino)
 
 
-#  ❗ :exclamation:❗ :exclamation:❗ :exclamation: #  ❗ :exclamation:❗ :exclamation:❗ :exclamation: 
+#  ❗ :exclamation:❗ :exclamation:❗ :exclamation:  ❗ :exclamation:❗ :exclamation:❗ :exclamation: 
 # SEE YOU SOON
-#  ❗ :exclamation:❗ :exclamation:❗ :exclamation: #  ❗ :exclamation:❗ :exclamation:❗ :exclamation: 
+#  ❗ :exclamation:❗ :exclamation:❗ :exclamation:   ❗ :exclamation:❗ :exclamation:❗ :exclamation: 
 
 
 
