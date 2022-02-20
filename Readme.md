@@ -6,8 +6,7 @@ My name is Agustin Vilariño, i am software developer from :pushpin: Buenos Aire
 I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!!!!.
 Welcome to my Github  :wave: :wave:
 
-### Designs
-### Mobile
+### :pencil2: Designs :pencil2:
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/price-grid-component/master/assets/design/mobile-design.jpg)
 
